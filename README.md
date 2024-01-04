@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-![Uploading Screenshot (11).png…]()
+![Screenshot (11)](https://github.com/Supraja0510/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/155217478/81b9806f-5f61-45f0-8947-2cac2444c68b)
+
 
 
 ## RESULT:
